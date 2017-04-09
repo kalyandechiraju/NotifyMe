@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>NotifyMeContentExtention.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>8DF96AF31E9A8C78004091D1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8DF96B0E1E9A93BA004091D1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
